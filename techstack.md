@@ -3,13 +3,13 @@
 ## Tech Stack
 highlanderkev/heroku-code-server is built on the following main stack:
 
-- [Linode](https://www.linode.com) – Cloud Hosting
-- [Heroku](https://www.heroku.com) – Platform as a Service
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Heroku](https://www.heroku.com) – Platform as a Service
+- [Linode](https://www.linode.com) – Cloud Hosting
 - [Debian](https://www.debian.org/) – Operating Systems
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
 
@@ -19,13 +19,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 highlanderkev/heroku-code-server is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/24/631d437cd8e04903f69766a85d8a5540.png' alt='Linode'/> [Linode](https://www.linode.com) – Cloud Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/24/631d437cd8e04903f69766a85d8a5540.png' alt='Linode'/> [Linode](https://www.linode.com) – Cloud Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/1656/vd4gAekh.png' alt='Debian'/> [Debian](https://www.debian.org/) – Operating Systems
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
 
@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [highlanderkev/heroku-code-server](https://github.com/highlanderkev/heroku-code-server)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|01/31/24 <br/>Report generated|
+|8<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
